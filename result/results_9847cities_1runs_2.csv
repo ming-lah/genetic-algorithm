@@ -1,0 +1,15 @@
+Parameter Settings
+pop_size,500
+generations,5000
+crossover_rate,0.9
+mutation_rate,0.02
+elitism_count,2
+use_two_opt,True
+gen_two_opt,1000
+two_opt_strategy,limited
+init_strategy,mixed
+selection_strategy,tournament
+crossover_strategy,mixed
+early_stop,600
+
+Run,Best_Distance,Best_Path

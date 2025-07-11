@@ -1,0 +1,22 @@
+Parameter Settings
+pop_size,200
+generations,20000
+crossover_rate,0.9
+mutation_rate,0.02
+elitism_count,0
+use_two_opt,False
+gen_two_opt,400
+two_opt_strategy,normal
+init_strategy,random
+selection_strategy,tournament
+crossover_strategy,mixed
+early_stop,1000
+
+Run,Best_Distance,Best_Path
+1,14010.644580927532,"[27, 30, 37, 35, 36, 33, 32, 10, 17, 16, 8, 7, 6, 2, 4, 0, 3, 5, 1, 20, 28, 29, 31, 34, 22, 24, 19, 12, 9, 13, 15, 26, 25, 23, 18, 11, 21, 14]"
+
+Summary
+Best_Distance,14010.644580927532
+Worst_Distance,14010.644580927532
+Average_Distance,14010.644580927532
+Best_Path,"[27, 30, 37, 35, 36, 33, 32, 10, 17, 16, 8, 7, 6, 2, 4, 0, 3, 5, 1, 20, 28, 29, 31, 34, 22, 24, 19, 12, 9, 13, 15, 26, 25, 23, 18, 11, 21, 14]"
